@@ -12,5 +12,5 @@ document.getElementById('mw-page-base').remove();
 document.getElementById('mw-page-base').remove(); 
 document.getElementById('mw-page-base').remove();
 document.getElementById('mw-page-base').remove();
-document.getElementsByClassName('vectorTabs').remove();
+document.getElementsByClassName('vectorTabs')[0].remove();
 document.getElementById('mw-page-base').remove();
