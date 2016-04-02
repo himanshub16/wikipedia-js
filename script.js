@@ -10,4 +10,7 @@ document.getElementById('mw-left-navigation').remove();
 document.getElementById('p-namespaces').remove(); 
 document.getElementById('mw-page-base').remove();  
 document.getElementById('mw-page-base').remove(); 
-
+document.getElementById('mw-page-base').remove();
+document.getElementById('mw-page-base').remove();
+document.getElementsByClassName('vectorTabs').remove();
+document.getElementById('mw-page-base').remove();
