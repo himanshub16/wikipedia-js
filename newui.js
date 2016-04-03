@@ -154,7 +154,7 @@ clearInterval(myr);
 var k;
 function on_ent(){
 k = this;
-myr = setTimeout(title_show, 1000);
+myr = setTimeout(title_show, 0);
 }
 
 
